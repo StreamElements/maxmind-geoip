@@ -19,7 +19,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/savaki/geoip2"
+	geoip2 "github.com/streamelements/maxmind-geoip"
 	"golang.org/x/net/context"
 )
 
